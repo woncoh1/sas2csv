@@ -34,5 +34,5 @@
             - `.sas7bdat` n
 
 ## TODO
-- Add more SAS character encodings
+- Add more character encodings
 - Expand to `.sav` (SPSS) and `.dta` (Stata) files
