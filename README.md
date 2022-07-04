@@ -17,11 +17,11 @@
 - `.csv`: [utf-8](https://en.wikipedia.org/wiki/UTF-8) (default)
 
 ## File permission
-- Upload `.csv`: **editor** of the **main** folder
-- Trash `.sas7bdat`: **owner** of the **main** folder
+- Upload `.csv`: **editor** of the **main folder**
+- Trash `.sas7bdat`: **owner** of the **main folder**
 
 ## Folder structure
-- Main Folder
+- **Main Folder**
     - Subfolder 1
         - `.sas7bdat` 1
         - `.sas7bdat` 2
