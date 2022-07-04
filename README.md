@@ -42,4 +42,4 @@
 ## TODO
 - Add more character encodings
 - Expand to `.sav` (SPSS) and `.dta` (Stata) files
-- Imporve time complexity using concurrency, parallelism or distributed computing
+- Improve time complexity using concurrency, parallelism or distributed computing
