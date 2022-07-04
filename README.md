@@ -3,7 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/woncoh1/sas2csv/blob/main/sas2csv.ipynb)
 
-## Introduction
+## Intro
 - This notebook uses Colab's R kernel to convert `.sas7bdat` files into `.csv` files
 - All `.sas7bdat` and `.csv` files are stored in Google Drive
 - The `.sas7bdat` files can be moved to trash or left intact
