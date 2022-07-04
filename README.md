@@ -18,7 +18,7 @@
 
 ## File permission
 - Upload `.csv`: **editor** of the **main** folder
-- Upload `.csv` and trash `.sas7bdat`: **owner** of the **main** folder
+- Trash `.sas7bdat`: **owner** of the **main** folder
 
 ## Folder structure
 - Main Folder
