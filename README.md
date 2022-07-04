@@ -1,4 +1,4 @@
-# sas2csv
+# SAS → CSV
 > Convert [`.sas7bdat`](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/hostwin/n0sk6o15955yoen19n9ghdziqw1u.htm#n19rscz36w9ly5n1c6bhrh8o348x) to [`.csv`](https://en.wikipedia.org/wiki/Comma-separated_values) in Google Drive using Google Colab R kernel
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/woncoh1/sas2csv/blob/main/sas2csv.ipynb)
