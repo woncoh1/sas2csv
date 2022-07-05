@@ -5,6 +5,7 @@
 
 ## Intro
 - This notebook uses Colab's R kernel to convert `.sas7bdat` files into `.csv` files
+- All metadata are discarded; only column names and data values are kept
 - All `.sas7bdat` and `.csv` files are stored in Google Drive
 - The `.sas7bdat` files can be moved to trash or left intact
 
