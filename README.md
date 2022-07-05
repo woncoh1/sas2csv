@@ -40,8 +40,8 @@
         - `.sas7bdat` n
 
 ## TODO
+Additional feature or bugfix request always welcomed!
 - [ ] Fix progress bar
 - [ ] Add more character encodings
 - [ ] Expand to `.sav` (SPSS) and `.dta` (Stata) files
 - [ ] Improve time complexity
-- Additional feature or bugfix request welcomed!
