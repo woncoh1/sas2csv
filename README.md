@@ -41,6 +41,7 @@
 
 ## TODO
 - [ ] Fix progress bar
-- [ ] Add more character encodings (Please post an issue if you need a particular character encoding!)
+- [ ] Add more character encodings
 - [ ] Expand to `.sav` (SPSS) and `.dta` (Stata) files
-- [ ] Improve time complexity using concurrency, parallelism or distributed computing
+- [ ] Improve time complexity
+- Additional feature or bugfix request welcomed!
