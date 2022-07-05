@@ -10,6 +10,7 @@
 - The `.sas7bdat` files can be moved to trash or left intact
 
 ## Folder structure
+Upload files to Google Drive according to the following structure:
 - **Main Folder**
     - Subfolder 1
         - `.sas7bdat` 1
