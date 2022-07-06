@@ -43,7 +43,9 @@ Upload files to Google Drive according to the following structure:
 
 ## TODO
 Additional feature or bugfix request always welcomed!
-- [ ] Fix progress bar
+- [ ] Fix progress status message
+- [ ] Consider using [progress](https://github.com/r-lib/progress) bar
 - [ ] Add more character encodings
 - [ ] Expand to `.sav` (SPSS) and `.dta` (Stata) files
+- [ ] Check whether trashing requires owner permission for folder or file
 - [ ] Improve time complexity
