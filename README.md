@@ -46,7 +46,7 @@ Upload files to Google Drive according to the following structure:
 Additional feature or bugfix request always welcomed!
 - [ ] Add more character encodings
 - [ ] Expand to `.sav` (SPSS) and `.dta` (Stata) files
-- [ ] Fix progress status message (list files using map + bind_rows)
-- [ ] Consider using [progress](https://github.com/r-lib/progress) bar
+- [ ] Fix progress status message (list files using [purrr::map](https://purrr.tidyverse.org/reference/map.html) + [dplyr::bind_rows](https://dplyr.tidyverse.org/reference/bind.html))
+- [ ] Consider using [progress bar](https://github.com/r-lib/progress)
 - [ ] Check whether trashing requires owner permission for folder or file
-- [ ] Improve time complexity using concurrency, parallelism or distributed computing
+- [ ] Improve time complexity
