@@ -51,4 +51,4 @@ Additional feature or bugfix request welcomed!
 - [ ] Add [interactive tibbles](https://glin.github.io/reactable/) for listing folders and files
 - [ ] Check whether trashing requires owner permission for folder or file
 - [ ] [Deploy](https://shiny.rstudio.com/deploy/) as [Shiny app](https://shiny.rstudio.com/)
-- [ ] Improve time complexity
+- [ ] Improve time complexity with [concurrency](https://cran.r-project.org/web/packages/promises/vignettes/intro.html), parallelism, or distributed computing
