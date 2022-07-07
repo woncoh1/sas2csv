@@ -43,7 +43,7 @@ Upload files to Google Drive according to the following structure:
 - `.csv`: [utf-8](https://en.wikipedia.org/wiki/UTF-8) (default)
 
 ## TODO
-Additional feature or bugfix request always welcomed!
+Additional feature or bugfix request welcomed!
 - [ ] Add more character encodings
 - [ ] Expand to `.sav` (SPSS) and `.dta` (Stata) files
 - [ ] Fix progress status message (list files using [purrr::map](https://purrr.tidyverse.org/reference/map.html) + [dplyr::bind_rows](https://dplyr.tidyverse.org/reference/bind.html))
