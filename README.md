@@ -32,7 +32,7 @@ Upload files to Google Drive according to the following structure:
 
 ## File permission
 - Upload `.csv`: **editor** of the **main folder**
-- Trash `.sas7bdat`: **owner** of the **main folder**
+- Trash `.sas7bdat`: **owner** of the **file**
 
 ## Character encoding
 - `.sas7bdat`
@@ -46,8 +46,6 @@ Upload files to Google Drive according to the following structure:
 Additional feature or bugfix request welcomed!
 - [ ] Add more character encodings
 - [ ] Expand to `.sav` (SPSS) and `.dta` (Stata) files
-- [ ] Fix progress status message (list files using [purrr::map](https://purrr.tidyverse.org/reference/map.html) + [dplyr::bind_rows](https://dplyr.tidyverse.org/reference/bind.html))
-- [ ] Check whether trashing requires owner permission for folder or file
 - [ ] Improve time complexity with [concurrency](https://cran.r-project.org/web/packages/promises/vignettes/intro.html), parallelism, or distributed computing
 - [ ] [Deploy](https://shiny.rstudio.com/deploy/) as [Shiny app](https://shiny.rstudio.com/)
 - [ ] Consider using [progress bar](https://github.com/r-lib/progress)
