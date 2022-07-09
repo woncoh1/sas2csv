@@ -47,5 +47,6 @@ Upload files to Google Drive according to the following structure:
 Additional feature or bugfix request welcomed!
 - [ ] Add more character encodings
 - [ ] Improve time complexity with [concurrency](https://cran.r-project.org/web/packages/promises/vignettes/intro.html), parallelism, or distributed computing
+- [ ] Metadata to CSV as well?
 - [ ] [Deploy](https://shiny.rstudio.com/deploy/) as [Shiny app](https://shiny.rstudio.com/)
 - [ ] Consider using [progress bar](https://github.com/r-lib/progress) and [interactive tibble](https://glin.github.io/reactable/)
