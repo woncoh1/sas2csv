@@ -46,6 +46,6 @@ Upload files to Google Drive according to the following structure:
 ## TODO
 Additional feature or bugfix request welcomed!
 - [ ] Add more character encodings
-- [ ] Improve time complexity with [concurrency](https://cran.r-project.org/web/packages/promises/vignettes/intro.html), parallelism, or distributed computing
-- [ ] Extract, don't discard, metadata to CSV
 - [ ] Flatten, don't nest, folder structure
+- [ ] Extract, don't discard, metadata to CSV
+- [ ] Improve time complexity with [concurrency](https://cran.r-project.org/web/packages/promises/vignettes/intro.html), parallelism, or distributed computing
