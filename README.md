@@ -13,23 +13,30 @@
 ## Folder structure
 Upload files to Google Drive according to the following structure:  
 (`.sav` or `.dta` may substitute `.sas7bdat` below)
-- **Main Folder**
-    - Subfolder 1
+1. Flat
+    - **Main Folder**
         - `.sas7bdat` 1
         - `.sas7bdat` 2
         - ...
         - `.sas7bdat` n
-    - Subfolder 2
-        - `.sas7bdat` 1
-        - `.sas7bdat` 2
+2. Nested
+    - **Main Folder**
+        - Subfolder 1
+            - `.sas7bdat` 1
+            - `.sas7bdat` 2
+            - ...
+            - `.sas7bdat` n
+        - Subfolder 2
+            - `.sas7bdat` 1
+            - `.sas7bdat` 2
+            - ...
+            - `.sas7bdat` n
         - ...
-        - `.sas7bdat` n
-    - ...
-    - Subfolder n
-        - `.sas7bdat` 1
-        - `.sas7bdat` 2
-        - ...
-        - `.sas7bdat` n
+        - Subfolder n
+            - `.sas7bdat` 1
+            - `.sas7bdat` 2
+            - ...
+            - `.sas7bdat` n
 
 ## File permission
 - Upload `.csv`: **editor** of the **main folder**
