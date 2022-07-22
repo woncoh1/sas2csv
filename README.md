@@ -1,9 +1,18 @@
 # SSS (SpreadSheetS) → CSV
-> Convert [`.sas7bdat`](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/hostwin/n0sk6o15955yoen19n9ghdziqw1u.htm#n19rscz36w9ly5n1c6bhrh8o348x), [`.sav`](https://www.ibm.com/docs/en/spss-statistics/26.0.0?topic=files-spss-statistics-data) or [`.dta`](https://www.loc.gov/preservation/digital/formats/fdd/fdd000471.shtml) to [`.csv`](https://en.wikipedia.org/wiki/Comma-separated_values) in Google Drive using Colab's R kernel  
+> Convert spreadsheet (table) files to CSV files in Google Drive using Colab's R kernel  
 > You only need a web browser and Google account; no need for proprietary software
 
 - Flat: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/woncoh1/sss2csv/blob/main/sss2csv_flat.ipynb)
 - Nested: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/woncoh1/sss2csv/blob/main/sss2csv_nested.ipynb)
+
+## Supported Formats
+- Input
+    - [`.sas7bdat`](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/hostwin/n0sk6o15955yoen19n9ghdziqw1u.htm#n19rscz36w9ly5n1c6bhrh8o348x)
+    - [`.sav`](https://www.ibm.com/docs/en/spss-statistics/26.0.0?topic=files-spss-statistics-data)
+    - [`.dta`](https://www.loc.gov/preservation/digital/formats/fdd/fdd000471.shtml)
+    - [`.xls`/`.xlsx`](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats)
+- Output
+    - [`.csv`](https://en.wikipedia.org/wiki/Comma-separated_values)
 
 ## Intro
 - This notebook uses Colab's R kernel to convert `.sas7bdat`, `.sav` or `.dta` files into `.csv` files
