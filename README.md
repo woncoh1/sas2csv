@@ -53,7 +53,7 @@ Upload files to Google Drive according to the following structure:
 
 ## TODO
 Additional feature or bugfix request welcomed!
-- [ ] Add Excel files as input format:[readxl](https://readxl.tidyverse.org/articles/readxl-workflows.html)
+- [ ] Add Excel files as input format: [readxl](https://readxl.tidyverse.org/articles/readxl-workflows.html)
 - [ ] Add more character encodings
 - [ ] Extract, don't discard, metadata to CSV
 - [ ] Improve time complexity with [concurrency](https://cran.r-project.org/web/packages/promises/vignettes/intro.html), parallelism, or distributed computing
