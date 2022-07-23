@@ -12,7 +12,7 @@
 - The input files can be moved to trash or left intact
 
 ## Folder structure
-Upload files to Google Drive according to the following structure:  
+Upload files to Google Drive according to one of the following structures:  
 (`.sav` or `.dta` may substitute `.sas7bdat` below)
 1. Flat
     - **Main Folder**
