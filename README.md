@@ -10,7 +10,7 @@
     - [`.sas7bdat`](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/hostwin/n0sk6o15955yoen19n9ghdziqw1u.htm#n19rscz36w9ly5n1c6bhrh8o348x)
     - [`.sav`](https://www.ibm.com/docs/en/spss-statistics/26.0.0?topic=files-spss-statistics-data)
     - [`.dta`](https://www.loc.gov/preservation/digital/formats/fdd/fdd000471.shtml)
-    - [`.xls`/`.xlsx`](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats)
+    - [`.xls`, `.xlsx`](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats)
 - Output
     - [`.csv`](https://en.wikipedia.org/wiki/Comma-separated_values)
 
