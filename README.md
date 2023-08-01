@@ -52,8 +52,9 @@ Upload files to Google Drive according to one of the following structures:
 - `.csv`: [utf-8](https://en.wikipedia.org/wiki/UTF-8) (default)
 
 ## TODO
-Additional feature or bugfix request welcomed!\
+Additional feature or bugfix request welcomed
 - [ ] Convert to Arrow IPC (`.arrow`)
 - [ ] Add more character encodings
 - [ ] Extract, don't discard, metadata to CSV
 - [ ] Improve time complexity with [concurrency](https://cran.r-project.org/web/packages/promises/vignettes/intro.html), parallelism, or distributed computing
+- [ ] Create app
